@@ -1,5 +1,13 @@
 # Unit 5 | Assignment - The Power of Plots
 
+OBSERVABLE TRENDS
+1.  A look into all the rides in all cities and all city types reveals that there is a downward linear trend of the highest fares being in cities with the least amount of rides going to the lowest average fares having the most number of rides in the city.  If you break this into the three city types of Urban, Suburban, and Rural, the data shows what you would expect, with Urban cities having the most drivers, most rides, and lowest average fare price of the three.  
+
+2.  Another noticeable point about the Urban City rides is that they seem to have more consistent ride prices and number of rides.  There are very few outliers in rides by this city type.  In comparison, if you review the rides in Rural cities, there is way less consistency with the data.  For example, there is one city with average fares below $25 and another city with fare prices almost at $45.  
+
+3.  Urban city drivers dominate the percentage of drivers compared to the three with over 80% of the total drivers.  This is a logical find, as you would expect there to be more drivers when there is more demand, or clients needing rides.  This is a dramatic number compared to the rural percentage of drivers being at around 3%.  If you look at the amount of rides by city type though, urban city rides only add up to 68% of the total rides.  So, this would mean that there may be too many drivers for the urban cities, which is why they aren't giving as many rides, and in turn not getting more money for their services.  
+
+
 ## Option 1: Pyber
 
 The ride sharing bonanza continues! Seeing the success of notable players like Uber and Lyft, you've decided to join a fledgling ride sharing company of your own. In your latest capacity, you'll be acting as Chief Data Strategist for the company. In this role, you'll be expected to offer data-backed guidance on new opportunities for market differentiation.
